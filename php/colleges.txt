@@ -1,0 +1,92 @@
+Alabama A&M University***UMC***694***604***HSCaRS - Center for Hydrology, Soil Climatology and Remote Sensing
+American River College, Sacramento, CA***UMC***2730***2340***ARC GIS Certificate Program
+Arizona State University, School of Geographical Sciences***UMC***2290***1980***Master of Advanced Study in Geographic Information Systems (MAS-GIS) - The MAS-GIS program is a compact one-year nonthesis degree program fostering advanced study in management and the use of GIS technology in public and corporate environments
+Baylor University***UMC***1420***1600***Baylor, Waco, TX offers Introductory GIS to their students.
+Boston University***UMC***452***421***Developed in 1995 - Degree program in GIS/Remote Sensing
+Brown University***UMC***423***395***Introduction to GIS course outline
+Cal Tech***UMC***2657***228***Dept. of Geological and Planetary Science
+California State University of Fresno***UMC***0***0***Geomatic Engineering
+California State University Los Angeles***UMC***0***0***Center for Spatial Analysis and Remote Sensing
+Central Michigan University***UMC***0***0***GIS Center
+Chippewa Valley Technical College***UMC***0***0***Eau Claire, Wisconsin
+Clark University, Worcester, Mass.***UMC***0***0***GIS IDRISI, MA Degree in GIS from Clark University
+College of William and Mary***UMC***0***0***The program is targeted at working professionals in the DC area who utilize, or plan to utilize, GIS in their employment. The focus of the program is to bring the full capability of Geographic Information Science to decision makers in DC including those in governmental organizations. In keeping with the W&M tradition, courses are taught in a small group setting with a focus on faculty student mentoring and contact. Although some course material is online, the majority of the courses are conducted face-to-face in the William & Mary DC office located in Dupont Circle. The program has a focus on analytical cartography and spatial analyses with a particular emphasis on policy relevant international databases such as the AidData international aid database and the social conflict in Africa database
+CoAxial Research Page***UMC***0***0***GIS & the Ocean Floor
+Colorado School of Mines***UMC***0***0***At Colorado School of Mines we have the #1 undergraduate Geological Engineering Program in the United States as well as the Energy and Minerals Field Institute and Institute for Resource and Environmental Geoscience
+Eastern Illinois University***UMC***0***0***The Professional Science Masters in Geographic Information Sciences (PSM in GISci) is an interdisciplinary program designed to facilitate students' pursuit of an advanced degree with training in the Geographic Information Sciences, while simultaneously developing business skills highly valued by potential employers.
+Eastern Michigan University***UMC***0***0***Masters of Science in GIS and Planning. The Master's of GIS in planning is being augmented with a GIS minor which will be geared toward interdisciplinary learning
+East Carolina University - Greenville, NC***UMC***0***0***Undergraduate and Graduate level geography programs with GIS and Remote Sensing courses and concentrations offfered.
+Elizabeth City State University***UMC***0***0***Variety of Courses in GIS and Remote Sensing
+Emporia State University, Kansas***UMC***0***0***Degrees in Earth Science, an undergraduate interdisciplinary minor in Geospatial Analysis, and a graduate Certificate in Geospatial Analysis. ESU is home base for the international work group on Geospatial Analysis of Glaciated Environments
+FGDL GIS Continuing Ed.***UMC***0***0***Geographic Continuing Ed. course in GIS
+Gap Analysis***UMC***0***0***Geographic Approach to Planning
+GEOITS***UMC***0***0***Spatial Skills for Sciences offered by Texas A&M University
+George Mason University***UMC***0***0***The George Mason University Professional Certificate in Geographic Information Systems (GIS) offers an opportunity for working professionals to increase their technical knowledge of GIS.
+Georgia State University***UMC***0***0***Department of Anthropology and Geography
+GRASS USA***UMC***0***0***Baylor University
+Hartwick College***UMC***0***0***GIS at Hartwick college, NY
+Humboldt State University, California***UMC***0***0***Courses in GIS and REmote Sensing
+Houston Community College***UMC***0***0***Dept. of Geology and Geographic Information Science. In GIS they offer an Associate Degree in Applied Science 67semester hours, a Technician Certificate 24 semester hours, and an Analyst Certificate 36 semester hour
+James Madison University***UMC***0***0***ArcView, ERDAS imagine
+Johns Hopkins University***MC***59.1***73***The courses are offered online.
+Kansas State***UMC***0***0***Dept. of Geography
+KARS***UMC***0***0***Kansas Applied Remote Sensing (KARS) Program at the University of Kansas (Lawrence, KS)
+Loma Linda University School of Public Health***UMC***0***0***Loma Linda University School of Public Health is a premiere provider of health geoinformatics training and education for the current and future public health workforce in the United States.
+Lawson State Community College***UMC***0***0***Geographic Information Systems Technology - 1 Year Course Certification
+LSU***UMC***0***0***Dept. of Geography and Anthropology. Be sure to also check out the CADGIS Lab
+Mary Washington College***UMC***0***0***Geography Department
+MATE Center***UMC***0***0***Marine Technology programs with a number of courses having topics related to the marine environment, marine technology, and the applications of GIS.
+Mesa Community College (Arizona)***UMC***0***0***Geographic Information Systems Technician Certification Program - The GISTC program at MCC is designed to teach students the fundamental concepts of GIS. It is not specific to any discipline making it more universal for students in all areas of study. Our program utilizes ArcGIS 8.2 software, ERDAS and other GIS software. We also integrate GPS technology into our teaching.
+Michigan State University***UMC***0***0***Our MS-GISci Program emphasizes applications of analytical techniques in the field of geography. Students are trained in advanced technologies such as remote sensing, geographic information systems, cartography, and spatial analysis. The degree is aimed toward professionals who want to acquire expertise in research techniques, but who may not necessarily wish to eventually pursue a PhD.
+MIT - Earth Resources Laboratory***UMC***0***0***NCGIA Nat'l Ctr for Geographic Info. & Analysis
+Independent Reseach Consortium***UMC***0***0***
+New Mexico State University***UMC***0***0***The department is growing in the GIS field. Michael DeMers is the Author of the book Fundamentals of GIS and he is now the Department head
+North Carolina State University (ITRE)-***UMC***0***0***The Institute for Transportation Research and Education offers a variety of GIS training classes. ITRE is a not for profit research institute and part of North Carolina State University.
+Northwest Missouri State University***UMC***0***0***Northwest Missouri State University has a very good GIS program. They also have the 2nd largest Geography department in the country with close to 350 majors and minors.
+Notre Dame University (NDU)***UMC***0***0***Graduate & Undergraduate GIS Programs
+Ohio State University***UMC***0***0***Geography Research, Links
+Oregon State University***UMC***0***0***Ocean& Atmospheric Sciences Page, Geosciences Department
+Penn State University***UMC***0***0***GIS Department, Certificate Program in GIS, Land Analysis Laboratory
+Purdue University***UMC***0***0***INGIS (Indiana Geographic Info System Server)
+Rice University (US)***UMC***0***0***Geography, Software, GIS Information, Etc.
+Rio Hondo College***UMC***0***0***GIS Studies
+Salem State College***UMC***0***0***GEO INFORMATION SCIENCE Graduate Program
+Samford University***UMC***0***0***Major in GIS with the Geography Dept.
+San Diego State***UMC***0***0***San Diego State University has one of the top Geo-Spatial Technology Laboratories in the Nation. They offer an MA or a Ph.D. in Geography and have a Certificate in Geographic Information Sciencefont>
+San Francisco State University***UMC***0***0***GIS Home Page - GIS Certificate program
+San Jose State University***UMC***0***0***Technical program in the Department of Geography and Certificate in Geographic Information Science
+State University of New York at Buffalo***UMC***0***0***Department of Geography
+St.Mary's University of Minnesota***UMC***0***0***GIS GPS
+Texas A&M University***UMC***0***0***GIS, Remote Sensing, GPS & Geosciences
+Troy State University (Troy, AL)***UMC***0***0***GEOMATICS PROGRAM, SURVEYING AND MAPPING - Our Geomatics Program has been described as a ‘practical’ program with a focus. Our objective is to provide you the knowledge, communications skills, and ability to successfully pursue a career as a geomatics professional. This is a new program in its second year. One of the benefits of a new program is the opportunity to shape the curriculum to meet the current demands of the profession. The program is guided by an advisory board of recognized professionals in the field. The distinguished faculty are able to explain the latest theory in the field, and have a basis in practical work experience to share with students.
+University of Alabama***UMC***0***0***Cartographic Research Lab
+University of Arizona***UMC***0***0***Master's of Science in GIS - The School of Geography and Development at The University of Arizona is accepting applications for a one-year Master of Science program in Geographic Information Systems Technology that begins in January. This program integrates GIScience, cutting-edge GISystems, and geospatial technology, with management skills for use in government, corporate, non-profit, and academic settings. This comprehensive program is designed to meet the important educational needs of working professionals seeking to improve their career standing as well as recent graduates seeking employment in the high-growth geospatial industries. The program is intended for students with either extensive or limited experience in GIST. The MS-GIST program meets in the evenings (Monday-Thursday, 6-9PM), does not require a master’s thesis, and can be obtained in one calendar year as it begins in January and ends in December. The program does not require a Graduate Record Exam (GRE) for admission. The University of A rizona is one of the premier public research universities in the world, recently ranked by the National Science Foundation as 16th amongst public universities and colleges in the United States and is a member of the prestigious Association of American Universities. The 380-acre campus is located in central Tucson, an affordable and culturally vibrant city surrounded by the beautiful and dramatic Sonoran desert., Advanced Resource Technology Laboratory
+University of Arkansas***UMC***0***0***Center for Advanced Spatial Technologies
+University of California, Berkeley***UMC***0***0***REGIS - Research in Environmental Planning & GIS
+University of California, Riverside***UMC***0***0***Extension GIS Certificate
+University of Colorado***UMC***0***0***College of Engineering and Applied Science University of Colorado at Denver
+University of Denver***UMC***0***0***GIS Lab
+University of Connecticut***UMC***0***0***Department of Geography
+University of Idaho***UMC***0***0***Department of Geography, Certificate in GIS Program
+University of Florida***UMC***0***0***GIS Special Information Service Unit
+University of Illinois***UMC***0***0***Geographic Modeling Systems Lab Course
+University of Iowa***UMC***0***0***Geography Department
+University of Maine***UMC***0***0***College of Natural Sciences
+University of Massachusetts Boston***UMC***0***0***The program is designed for majors in Earth and Geographic Science (E&GSci)or any other discipline that makes use of spatial data, and for non-matriculated students who wish to acquire the necessary background and skills for employment in the field of geographic information technologies.
+University of Minnesota***UMC***0***0***Forest Resources, GIS, RS Lab
+University of Nebraska, Lincoln***UMC***0***0***Statewide Digital Data Bases for GIS/Mapping
+University of New Orleans***UMC***0***0***Department of Geography
+University of North Dakota - Division of Continuing Education***UMC***0***0***Earn your GISc Graduate Certificate ONLINE without leaving your job or family! With the University of North Dakota’s online GISc program, you will receive the GIS education and technical training you need for career advancement.
+University of Pittsburgh***UMC***0***0***Undergraduate GIS certificate program
+University of Redlands***UMC***0***0***The GIS Certificate focuses on producing management professionals who can analyze and resolve complex business problems utilizing spatial information and analysis.
+University of South Carolina***UMC***0***0***Dept. of Geography GIS and RS Lab
+University of Utah***UMC***0***0***Geography Department
+University of Washington***UMC***0***0***Geophysics Programs
+University of West Florida - ONLINE***UMC***0***0***GIS Training Academy - Certificate, Masters, Training - Online
+University of Wisconsin - Madison***UMC***0***0***Remote sensing, photogrammetry, GIS,GPS, and image processing
+University of Wisconsin - Stevens Point***UMC***0***0***GIS, cartography, remote sensing, air photo, and other physical geography courses
+Utah State University***UMC***0***0***GIS Program, remote sensing, GPS
+Weber State University***UMC***0***0***Applied Computer Mapping offered by the Department of Geosciences at Weber State University, Ogden, Utah
+Western Kentucky University***UMC***0***0***GIS Certificate and a GIS and Spatial Analysis Track for B.Sc. Degree in Geography and a M.Sc. Degree in Geoscience. The Department's 12-Hour Geographic Information Systems (GIS) Certificate Program is designed to provide students with the practical GIS skills necessary for success in a variety of careers. This certificate program is designed for students in a variety of disciplines that involve the analysis and mapping of geographic data. Students who complete the program will have a solid foundation that spans the collection, management, analysis, and display of data using geographic information systems. Students gain practical experience by completing projects that require the use of sophisticated GIS functions. Finally, students learn how to develop and to implement customized GIS applications. The Program is housed in the Department of Geography and Geology. It consists of a series of four courses taken for a total of 12 credit hours. Students seeking graduate credit can take GEOG 417G and GEOG 419G in place of the undergraduate course. There is also a GIS and Spatial Analysis Track for students completing a B.Sc. Degree in Geography and a M.Sc. Degree in Geoscience.
+West Virginia University***UMC***0***0***Geography program within the Department of Geology and Geography with B.A., M.A. and Ph.D. in GIS and RS.
+Wright State University***UMC***0***0***Topics of study such as cartography, climatology, landform analysis, remote sensing, settlement theory, spatial interaction, and urban morphology indicate the breadth of contemporary geography.

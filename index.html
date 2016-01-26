@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>GIS Programs</title>
+        <meta charset='utf-8' />
+        <link rel='stylesheet' type='text/css' href='https://fonts.googleapis.com/css?family=Quicksand' >
+        <link rel='stylesheet' type='text/css' href='https://necolas.github.io/normalize.css/3.0.2/normalize.css' />
+        <link rel='stylesheet' type='text/css' href='css/styles.css' />
+    </head>
+    <body onload='readColleges()'>
+        <div id='header'>
+            <p>GIS College & University Programs</p>
+            <button id='edit_list'>Edit List</button>
+        </div>
+        <div id='content'>
+            <!--
+            College Name
+            U G C
+            Driving Distance/Time
+            Contact Info
+            -->
+            <table id='college-table'>
+                <thead>
+                    <tr id='Header Information'>
+                        <th class='sortable header'>College/University</th>
+                        <td><span id='undergraduate'>U</span> <span id='masters'>M</span> <span id='certificate'>C</span><span id='umc_info' class='information'>?</span></td>
+                        <th class='sortable header'>Distance</th>
+                        <th class='sortable header '>Travel Time</th>
+                        <td>Contact</td>
+                    </tr>
+                </thead>
+                <tbody id='colleges'>
+                </tbody>
+            </table>
+            <div id='information_box'></div>
+        </div>
+        <div id='overlay'>
+        </div>
+        <script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js'></script>
+        <script type='text/javascript' src='js/jquery.tablesorter.min.js'></script>
+        <script type='text/javascript' src='js/script.js'></script>
+        <script type='text/javascript' src='js/admin.js'></script>
+    </body>
+</html>

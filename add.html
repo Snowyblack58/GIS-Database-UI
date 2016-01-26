@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>GIS Programs</title>
+        <meta charset='utf-8' />
+        <link rel='stylesheet' type='text/css' href='https://fonts.googleapis.com/css?family=Quicksand' >
+        <link rel='stylesheet' type='text/css' href='https://necolas.github.io/normalize.css/3.0.2/normalize.css' />
+        <link rel='stylesheet' type='text/css' href='css/styles.css' />
+    </head>
+    <body onload='initialize()'>
+        <div id='header'>
+            <p>GIS College & University Programs</p>
+            <button id='back_to_list'>Back to List</button>
+        </div>
+        <div id='content'>
+<!--ADD COLLEGES-->
+            <h1>Add College</h1>
+            <table>
+                <thead>
+                    <th>College Name</th>
+                    <th>UMC</th>
+                    <th>Address/Coordinate</th>
+                    <th>Information</th>
+                </thead>
+                <tbody>
+                    <td><input type='text' id='college'></td>
+                    <td><input type='checkbox' id='u'>Undergraduate<br><input type='checkbox' id='m'>Masters<br><input type='checkbox' id='c'>Certificate</td>
+                    <td><input type='text' id='address'></td>
+                    <td><input type='text' id='information'></td>
+                </tbody>
+            </table>
+            <input id='add_college_submit' type='button' value='Submit'>
+            <hr>
+<!--ADD CONTACT-->
+            <h1>Add Contact</h1>
+            <table>
+                <thead>
+                    <th>Contact Name</th>
+                    <th>Title</th>
+                    <th>Phone</th>
+                    <th>Email</th>
+                    <th>Associated College</th>
+                </thead>
+                <tbody>
+                    <td><input type='text' id='contact_name'></td>
+                    <td><input type='text' id='title'></td>
+                    <td><input type='text' id='phone'></td>
+                    <td><input type='text' id='email'></td>
+                    <td><input type='text' id='associated_college'></td>
+                </tbody>
+            </table>
+            <input id='add_contact_submit' type='button' value='Submit'>
+            <hr>
+<!--DELETE COLLEGE-->
+            <h1>Delete College</h1>
+            <table>
+                <thead>
+                    <th>College Name</th>
+                    <th>College Name Again</th>
+                </thead>
+                <tbody>
+                    <td><input type='text' id='delete_college_name'></td>
+                    <td><input type='text' id='delete_college_name_again'></td>
+                </tbody>
+            </table>
+            <input id='delete_college_submit' type='button' value='Submit'>
+            <hr>
+<!--DELETE CONTACT-->
+            <h1>Delete Contact</h1>
+            <table>
+                <thead>
+                    <th>Contact Name</th>
+                    <th>Associated College</th>
+                </thead>
+                <tbody>
+                    <td><input type='text' id='delete_contact_name'></td>
+                    <td><input type='text' id='delete_associated_college'></td>
+                </tbody>
+            </table>
+            <input id='delete_contact_submit' type='button' value='Submit'>
+        </div>
+        <div id="map_canvas"></div>
+        <script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js'></script>
+        <meta name="viewport" content="initial-scale=1.0, user-scalable=no"/>
+        <script type="text/javascript" src="https://maps.google.com/maps/api/js?sensor=false"></script>
+        <script type='text/javascript' src='js/add.js'></script>
+    </body>
+</html>
